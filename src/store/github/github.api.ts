@@ -28,5 +28,3 @@ export const githubApi = createApi({
 })
 
 export const {useSearchUsersQuery, useLazyGetUserReposQuery} = githubApi
-
-// Request URL: https://api.github.com/search/users?q=vladilen
